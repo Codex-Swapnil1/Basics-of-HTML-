@@ -8,3 +8,15 @@ table,tr,th,td{
     text-align: center;
     border-collapse: collapse;
 }
+#navBar{
+    display: flex;
+    align-items: center;
+}
+img{
+    width: 185px;
+}
+a{
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+}
